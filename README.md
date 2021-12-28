@@ -11,6 +11,7 @@ LeetCode
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Python](./algorithms/python/grayCode/grayCode.py),[JS](./algorithms/javascript/grayCode/grayCode.js),[Go](./algorithms/go/grayCode/grayCode.go)|Medium||
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/validate-binary-search-tree/validate-binary-search-tree.py),[JS](./algorithms/javascript/validate-binary-search-tree/validate-binary-search-tree.js),[Go](./algorithms/go/validate-binary-search-tree/validate-binary-search-tree.go)|Medium|Divide and Conquer|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./algorithms/python/linked-list-cycle/linked-list-cycle.py),[JS](./algorithms/javascript/linked-list-cycle/linked-list-cycle.js),[Go](./algorithms/go/linked-list-cycle/linked-list-cycle.go)|Easy|Hash Table|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](./algorithms/python/search-a-2d-matrix-ii/search-a-2d-matrix-ii.py),[JS](./algorithms/javascript/search-a-2d-matrix-ii/search-a-2d-matrix-ii.js),[Go](./algorithms/go/search-a-2d-matrix-ii/search-a-2d-matrix-ii.go)|Medium|Divide and Conquer|
 
 
 ### LeetCode Explore
