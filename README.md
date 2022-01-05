@@ -21,3 +21,6 @@ Introduction to Algorithms
 #### Recursion II
 
 * [Divide and Conquer](/explore/recursion-ii/divide-and-conquer/README.md)
+    * [分而治之套用模版](/explore/recursion-ii/divide-and-conquer/D_C_template.md)
+    * [归并排序](/explore/recursion-ii/divide-and-conquer/MergeSort.md)
+    * [快排](/explore/recursion-ii/divide-and-conquer/QuickSort.md)
